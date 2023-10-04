@@ -1,0 +1,41 @@
+#box1{
+    background-color: rgba(81, 81, 228, 0.8);
+    font-weight: bold; 
+}
+#box2{
+    background-color: rgba(185, 47, 233);
+    font-weight: bold;
+}
+#box3{
+    background-color: rgb(156, 228, 78);
+    font-weight: bold;
+}
+#box4{
+    background-color: rgb(224, 165, 93);
+    font-weight: bold;
+}
+#box5{
+    background-color: rgb(253, 253, 6);
+    font-weight: bold;
+}
+#box6{
+    background-color: rgb(121, 119, 110);
+    font-weight: bold;
+}
+#box7{
+    background-color: rgb(231, 90, 114);
+    font-weight: bold;
+}
+#box8{
+    background-color: rgb(138, 138, 201);
+    font-weight: bold;
+}
+#box9{
+    background-color: rgba(81, 81, 228, 0.8);
+    font-weight: bold;
+}
+#box10{
+    background-color:  rgba(224, 165, 93,1);
+    font-weight: bold;
+}
+
